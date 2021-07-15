@@ -1,7 +1,7 @@
 // For
 
-// OBS: o i++ é crescente e o i-- decrescente
-// dentro dos () - primeiro inicializa uma variável, depois coloca uma condição de continuação deste loop, então, enquanto o i < 10, continua... 
+// OBS: o i++ é crescente e o i-- decrescente | no caso se o nome da variável fosse cont (let cont = 0) ficaria: for(let cont = 0, cont < 10; cont++)
+// dentro dos () - primeiro inicializa uma variável, depois coloca uma condição de continuação deste loop, então, enquanto o i < 10, continua adicionando de 1 em 1
 
 
 /* for(let i = 0; i < 10; i++) {
